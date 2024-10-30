@@ -1,7 +1,7 @@
 import requests, datetime, smtplib,time
 
-email='tester7760775061@gmail.com'
-password='mamb mymj uuus gcbh'
+email='tester7760775061@gmail.com'//enter your mail
+password='Enter your pass'
 lat = 12.971599
 lon = 77.594566
 def isnight():
